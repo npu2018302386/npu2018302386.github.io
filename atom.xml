@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shenzicheng.top</id>
     <title>小米粒</title>
-    <updated>2019-08-04T15:48:45.431Z</updated>
+    <updated>2019-08-04T15:51:02.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shenzicheng.top"/>
     <link rel="self" href="https://shenzicheng.top/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://shenzicheng.top/images/avatar.png</logo>
     <icon>https://shenzicheng.top/favicon.ico</icon>
     <rights>All rights reserved 2019, 小米粒</rights>
+    <entry>
+        <title type="html"><![CDATA[今夜繁星点点相伴]]></title>
+        <id>https://shenzicheng.top/post/jin-ye-fan-xing-dian-dian-xiang-ban</id>
+        <link href="https://shenzicheng.top/post/jin-ye-fan-xing-dian-dian-xiang-ban">
+        </link>
+        <updated>2019-08-04T15:49:40.000Z</updated>
+        <content type="html"><![CDATA[<p>今天是建站的第一天，也是我和泽华旅游结束的一天，旅游很快乐，但快乐时光总是很快的，每一天都过的很充实，但相逢注定伴随着别离，明天晚上去上海的火车，不知道下一次看星空又是什么时候，不知道下一次见面我们之间又会经历什么样的挫折，但我相信我们之间是拥有魔力的，还有就是我会慢慢更改我发牢骚的方式，但你也要改变，有些委屈，不能一个人受，必须有你的承担我才能挺住，有时候我需要你和我站在一起面对，而不是逃避，你不习惯受委屈，但是感情不可能不受委屈，无条件宠爱一个人是天方夜潭的，两个人都必须从对方身上得到自己的寄托才能长久，才能不会很累。今天你没来送我，说实话我有点后悔来送你了，但是我也习惯了，就像你习惯我的臭脾气一样，我也习惯你间歇性的伤人，你对像是一个敏感的人，你的行为真的会让我胡思乱想，会让我觉得我的付出好像没什么回报，你说我不会分享给你我的想法，我只会憋在心里，说实话我害怕，我害怕我说话方式不对，会让我点燃另一个炸弹，让我的心一直处于绞痛的状态，我心里本来就很痛苦，我还有什么心思去安慰你呢？感情上我承认我做的不足，但是日常交往中，泽华你做的太少了，我也是需要人疼的，这种疼不是口头上说说的，我想感受到的。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://shenzicheng.top/post/hello-gridea</id>
