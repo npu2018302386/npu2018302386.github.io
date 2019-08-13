@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shenzicheng.top</id>
     <title>小米粒</title>
-    <updated>2019-08-06T08:01:09.131Z</updated>
+    <updated>2019-08-13T10:12:27.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shenzicheng.top"/>
     <link rel="self" href="https://shenzicheng.top/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://shenzicheng.top/images/avatar.png</logo>
     <icon>https://shenzicheng.top/favicon.ico</icon>
     <rights>All rights reserved 2019, 小米粒</rights>
+    <entry>
+        <title type="html"><![CDATA[隔着屏幕的心酸]]></title>
+        <id>https://shenzicheng.top/post/ge-zhao-ping-mu-de-xin-suan</id>
+        <link href="https://shenzicheng.top/post/ge-zhao-ping-mu-de-xin-suan">
+        </link>
+        <updated>2019-08-12T14:47:49.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://shenzicheng.top/post-images/1565621351753.bmp" alt=""><br>
+真正的心酸莫过于此--我只能看着你哭却什么也做不到，什么也说不出，不知道怎么缓解你的痛苦，只能看着你在床上自己默默承受，内心也有愤怒，对自己的无所作为气愤，对你的扭捏愤怒，我见不了你哭，我一见到你哭我就不知到要干什么了。我能想到的办法就是找你嫂子帮忙，这是很合情合理的事情，但是你却迟迟不去，你害怕麻烦别人，遇到事情只知道自己承受，但是不是什么好事，我们还都是心智未成年的准成年人，而你更是一个女生，你需要帮助，我们都需要不断成长，不能因为害怕，而选择犹豫，甚至是放弃，这样我们迟早会付出更大的代价去成长。我会陪着你，即使你成长的速度很慢，但我会鼓励你去面对。<br>
+最后的最后就是对你的期待----你要替我照顾好你自己，不要让我担心，你不是一个人。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今夜繁星点点相伴]]></title>
         <id>https://shenzicheng.top/post/jin-ye-fan-xing-dian-dian-xiang-ban</id>
